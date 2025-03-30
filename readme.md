@@ -43,17 +43,15 @@ Here are some colorization examples on historical black-and-white photographs ac
 <br>
 
 And here are some examples taken from the COCO dataset:
-<div style="display: flex; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
    <figure style="text-align: center;">
     <img src="results/example_results/bw.png" width="50%" />
     <figcaption>Black and White</figcaption>
   </figure>
-  <br>
    <figure style="text-align: center;">
     <img src="results/example_results/lsgan.png" width="50%" />
     <figcaption>Colorized</figcaption>
   </figure>
-  <br>
    <figure style="text-align: center;">
     <img src="results/example_results/gt.png" width="50%" />
     <figcaption>Ground Truth</figcaption>
