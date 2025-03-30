@@ -22,22 +22,22 @@ For a comprehensive explanation of the project, refer to [report-cro.pdf](./resu
 ## Results Examples
 Here are some colorization examples on historical black-and-white photographs achieved using our LS-GAN model:
 <div style="display: flex; gap: 10px;">
-  <img src="results/example_results/kumice.png" width="35%" />
-  <img src="results/example_results/kumice_c.png" width="35%" />
+  <img src="results/example_results/kumice.png" width="30%" />
+  <img src="results/example_results/kumice_c.png" width="30%" />
 </div>
 <br>
 
 
 <div style="display: flex; gap: 10px;">
-  <img src="results/example_results/stari_zg.png" width="35%" />
-  <img src="results/example_results/stari_zg_c.png" width="35%" />
+  <img src="results/example_results/stari_zg.png" width="30%" />
+  <img src="results/example_results/stari_zg_c.png" width="30%" />
 </div>
 
 <br>
 
 <div style="display: flex; gap: 10px;">
-  <img src="results/example_results/nama.png" width="25%" />
-  <img src="results/example_results/nama_c.png" width="25%" />
+  <img src="results/example_results/nama.png" width="30%" />
+  <img src="results/example_results/nama_c.png" width="30%" />
 </div>
 
 <br>
@@ -48,10 +48,12 @@ And here are some examples taken from the COCO dataset:
     <img src="results/example_results/bw.png" width="50%" />
     <figcaption>Black and White</figcaption>
   </figure>
+  <br>
    <figure style="text-align: center;">
     <img src="results/example_results/lsgan.png" width="50%" />
     <figcaption>Colorized</figcaption>
   </figure>
+  <br>
    <figure style="text-align: center;">
     <img src="results/example_results/gt.png" width="50%" />
     <figcaption>Ground Truth</figcaption>
