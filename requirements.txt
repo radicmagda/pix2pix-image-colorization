@@ -1,0 +1,12 @@
+numpy
+pillow
+tqdm
+matplotlib
+scikit-image
+torch
+torchvision
+fastai==2.4
+torchmetrics
+lpips
+torcheval
+torch-fidelity
