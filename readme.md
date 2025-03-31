@@ -21,21 +21,21 @@ For a comprehensive explanation of the project, refer to [report-cro.pdf](./resu
 
 ## Results Examples
 Here are some colorization examples on historical black-and-white photographs achieved using our LS-GAN model:
-<div style="display: flex; gap: 10px; justify-content: center;">
+<div style="display: flex; gap: 10px;">
   <img src="results/example_results/kumice.png" width="30%" />
   <img src="results/example_results/kumice_c.png" width="30%" />
 </div>
 <br>
 
 
-<div style="display: flex; gap: 10px; justify-content: center;">
+<div style="display: flex; gap: 10px;">
   <img src="results/example_results/stari_zg.png" width="30%" />
   <img src="results/example_results/stari_zg_c.png" width="30%" />
 </div>
 
 <br>
 
-<div style="display: flex; gap: 10px; justify-content: center;">
+<div style="display: flex; gap: 10px;">
   <img src="results/example_results/nama.png" width="30%" />
   <img src="results/example_results/nama_c.png" width="30%" />
 </div>
