@@ -46,14 +46,14 @@ And here are some examples taken from the COCO dataset:
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
    <figure style="display: block; text-align: center;">
     <img src="results/example_results/bw.png" width="50%" />
-    <figcaption>Black and White</figcaption>
+    <figcaption style="display: block;">Black and White</figcaption>
   </figure>
    <figure style="display: block; text-align: center;">
     <img src="results/example_results/lsgan.png" width="50%" />
-    <figcaption>Colorized</figcaption>
+    <figcaption style="display: block;">Colorized</figcaption>
   </figure>
    <figure style="display: block; text-align: center;">
     <img src="results/example_results/gt.png" width="50%" />
-    <figcaption>Ground Truth</figcaption>
+    <figcaption style="display: block;">Ground Truth</figcaption>
   </figure>
 </div>
